@@ -1,0 +1,46 @@
+# 가상환경 폴더
+.venv/
+
+# 환경변수 파일 (API 키 등 비밀정보)
+.env
+.env.*
+!.env.example
+
+# 파이썬 캐시
+__pycache__/
+*.py[cod]
+
+# 주피터 체크포인트
+.ipynb_checkpoints/
+
+# 운영체제 생성 파일
+Thumbs.db
+desktop.ini
+LangChain_Core_RAG/OpenAI_Embeddings_DB/chroma.sqlite3
+LangChain_Core_RAG/OpenAI_Embeddings_DB/0310523f-005e-42fa-9bcf-1ee0f037596c/data_level0.bin
+LangChain_Core_RAG/OpenAI_Embeddings_DB/0310523f-005e-42fa-9bcf-1ee0f037596c/header.bin
+LangChain_Core_RAG/OpenAI_Embeddings_DB/0310523f-005e-42fa-9bcf-1ee0f037596c/length.bin
+LangChain_Core_RAG/OpenAI_Embeddings_DB/0310523f-005e-42fa-9bcf-1ee0f037596c/link_lists.bin
+LangChain_Core_RAG/OpenAI_Embeddings_DB/4b93a137-54a6-41ce-a54d-dd2d8e09314b/data_level0.bin
+LangChain_Core_RAG/OpenAI_Embeddings_DB/4b93a137-54a6-41ce-a54d-dd2d8e09314b/header.bin
+LangChain_Core_RAG/OpenAI_Embeddings_DB/4b93a137-54a6-41ce-a54d-dd2d8e09314b/length.bin
+LangChain_Core_RAG/OpenAI_Embeddings_DB/4b93a137-54a6-41ce-a54d-dd2d8e09314b/link_lists.bin
+LangChain_Core_RAG/OpenAI_Embeddings_DB/c112f376-27a4-486b-bff0-a6c6dadb5937/data_level0.bin
+LangChain_Core_RAG/OpenAI_Embeddings_DB/c112f376-27a4-486b-bff0-a6c6dadb5937/header.bin
+LangChain_Core_RAG/OpenAI_Embeddings_DB/c112f376-27a4-486b-bff0-a6c6dadb5937/length.bin
+LangChain_Core_RAG/OpenAI_Embeddings_DB/c112f376-27a4-486b-bff0-a6c6dadb5937/link_lists.bin
+LangChain_Core_RAG/chroma_db2/chroma.sqlite3
+LangChain_Core_RAG/chroma_db2/1e9b2f1d-88fa-465f-a7a9-186f6e9eebe9/data_level0.bin
+LangChain_Core_RAG/chroma_db2/1e9b2f1d-88fa-465f-a7a9-186f6e9eebe9/header.bin
+LangChain_Core_RAG/chroma_db2/1e9b2f1d-88fa-465f-a7a9-186f6e9eebe9/length.bin
+LangChain_Core_RAG/chroma_db2/1e9b2f1d-88fa-465f-a7a9-186f6e9eebe9/link_lists.bin
+LangChain_Core_RAG/chroma_db/chroma.sqlite3
+LangChain_Core_RAG/chroma_db/dc3ebba7-7b8d-4a58-a4e7-382eb100695e/data_level0.bin
+LangChain_Core_RAG/chroma_db/dc3ebba7-7b8d-4a58-a4e7-382eb100695e/header.bin
+LangChain_Core_RAG/chroma_db/dc3ebba7-7b8d-4a58-a4e7-382eb100695e/length.bin
+LangChain_Core_RAG/chroma_db/dc3ebba7-7b8d-4a58-a4e7-382eb100695e/link_lists.bin
+LangChain_Core_RAG/pdf_vector_db_advanced/chroma.sqlite3
+LangChain_Core_RAG/pdf_vector_db_advanced/48715cb0-46dc-4fb2-ba43-efd7cd15f162/data_level0.bin
+LangChain_Core_RAG/pdf_vector_db_advanced/48715cb0-46dc-4fb2-ba43-efd7cd15f162/header.bin
+LangChain_Core_RAG/pdf_vector_db_advanced/48715cb0-46dc-4fb2-ba43-efd7cd15f162/length.bin
+LangChain_Core_RAG/pdf_vector_db_advanced/48715cb0-46dc-4fb2-ba43-efd7cd15f162/link_lists.bin
